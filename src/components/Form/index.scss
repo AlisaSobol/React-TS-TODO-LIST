@@ -1,0 +1,18 @@
+.form {
+  margin-bottom: 15px;
+
+  &__input {
+    width: 300px;
+    height: 40px;
+    line-height: 40px;
+    margin-right: 5px;
+  }
+
+  &__btn {
+    vertical-align: top;
+  }
+
+  &__error {
+    color: brown;
+  }
+}
